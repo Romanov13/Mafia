@@ -1,4 +1,4 @@
 # Mafia
 
-Graphical multithreaded application that emulateds the Mafia game.
+Graphical multithreaded application that emulates the Mafia game.
 
